@@ -31,11 +31,6 @@ Ensure you have the following installed on your system:
    cd Bogalho-Room-Creator
    ```
 
-3. Install any required Python dependencies (if applicable):
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ### Usage
 
 1. Place your GameMaker project folder inside the `gamefiles` directory.
