@@ -58,6 +58,7 @@ The default room size is 1366x768 pixels, with a 16x16 pixel grid. You can adjus
 
 - `os`: Standard library module for operating system interactions.
 - `tkinter`: Standard library module for GUI creation.
+- `pyautogui`: Used for retrieving the current mouse position programmatically. (Will be added later)
 
 ## Contributing
 
